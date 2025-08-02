@@ -1,0 +1,13 @@
+# WordPress
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/backup-*
+
+# Docker
+.env                # Если используете переменные окружения
+docker-compose.override.yml
+
+# Системные файлы
+.DS_Store
+.idea/
+*.log
