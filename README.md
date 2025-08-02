@@ -1,5 +1,4 @@
 
-```markdown
 # WordPress в Docker + Git/GitHub
 
 Проект представляет собой **WordPress**, развернутый в **Docker**, с интеграцией **Git/GitHub** для удобной разработки и контроля версий.
@@ -10,7 +9,7 @@
 
 1. **Клонируйте репозиторий**:
    ```bash
-   git clone https://github.com/ваш-username/wordpress-docker.git
+   git clone https://github.com/alekseysafronov/wordpress-docker.git
    cd wordpress-docker
    ```
 
@@ -110,20 +109,11 @@ docker-compose run --rm wp-cli wp plugin list
 ---
 
 ## 📜 Лицензия
-MIT (или укажите свою).
+MIT (FREE).
 
 ---
 
 ## 📌 Контакты
-- Автор: [Ваше имя](https://github.com/ваш-username)
-- Проект на GitHub: [wordpress-docker](https://github.com/ваш-username/wordpress-docker)
-```
+- Автор: [Алексей Сафронов](https://github.com/alekseysafronov)
+- Проект на GitHub: [wordpress-docker](https://github.com/alekseysafronov/wordpress-docker)
 
----
-
-### Как использовать?
-1. Скопируйте этот текст в файл `README.md` в вашем проекте.
-2. Замените `ваш-username` на ваш GitHub-аккаунт.
-3. Добавьте свои данные (лицензия, контакты, описание).
-
-Этот файл поможет другим разработчикам быстро разобраться в вашем проекте!
